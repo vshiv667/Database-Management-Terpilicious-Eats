@@ -1,0 +1,1 @@
+USE BUDT758_DB_0504_10DROP TABLE [TerpEats.Write];DROP TABLE [TerpEats.Review];DROP TABLE [TerpEats.Dine];DROP TABLE [TerpEats.Employee];DROP TABLE [TerpEats.Restaurant];DROP TABLE [TerpEats.Menu];DROP TABLE [TerpEats.Location];DROP TABLE [TerpEats.Customer];

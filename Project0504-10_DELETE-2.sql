@@ -1,0 +1,1 @@
+USE BUDT758_DB_0504_10DELETE FROM [TerpEats.Write];DELETE FROM [TerpEats.Review];DELETE FROM [TerpEats.Dine];DELETE FROM [TerpEats.Employee];DELETE FROM [TerpEats.Restaurant];DELETE FROM [TerpEats.Menu];DELETE FROM [TerpEats.Location];DELETE FROM [TerpEats.Customer];
