@@ -1,6 +1,6 @@
 Brand Name:
 
-Terpilicious Eats 
+Terpilicious Eats
 #FeartheFood
  
 Mission Statement:
