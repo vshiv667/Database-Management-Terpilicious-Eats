@@ -14,7 +14,7 @@ To offer an informative online platform that provides useful data and informatio
 -	Increase public awareness and knowledge with the goal of helping people make informed food decisions
 -	Connect students, faculty, and other residents with local restaurants, and vice versa
 
- ## ER MODEL:
+ ## ER Model:
 <p align="center">
   <img  height="500" src="ER-Model.PNG">
 </p>
