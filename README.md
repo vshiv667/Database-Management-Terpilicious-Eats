@@ -14,6 +14,11 @@ Mission Objectives:
 ●	Increase public awareness and knowledge with the goal of helping people make informed food decisions
 ●	Connect students, faculty, and other residents with local restaurants, and vice versa
 
+ **ER MODEL:**
+<p align="center">
+  <img  height="500" src="ER-MODEL.png">
+</p>
+
  
 
 
