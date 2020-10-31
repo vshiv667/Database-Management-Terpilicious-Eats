@@ -1,5 +1,3 @@
-**Brand Name:**
-
 ## Terpilicious Eats
 _#FeartheFood_
  
