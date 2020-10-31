@@ -16,9 +16,5 @@ Mission Objectives:
 
  **ER MODEL:**
 <p align="center">
-  <img  height="500" src="ER-MODEL.png">
+  <img  height="500" src="ER-Model.PNG">
 </p>
-
- 
-
-
