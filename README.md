@@ -16,3 +16,14 @@ To offer an informative online platform that provides useful data and informatio
 <p align="center">
   <img  height="500" src="ER-Model.PNG">
 </p>
+
+ ## Question:
+<p align="center">
+  <img  height="500" src="Question.PNG">
+</p>
+
+ ## Visual:
+<p align="center">
+  <img  height="500" src="Visual.PNG">
+</p> 
+
